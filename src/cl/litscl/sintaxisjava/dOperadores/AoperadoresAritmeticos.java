@@ -14,13 +14,13 @@ public class AoperadoresAritmeticos {
 		System.out.println("La resta de " + numero1 + " con " + numero2 + " es igual a: " + resta);
 		
 		double multiplicacion = numero1 * numero2;
-		System.out.println("La multiplicaci�n de " + numero1 + " con " + numero2 + " es igual a: " + multiplicacion);
+		System.out.println("La multiplicación de " + numero1 + " con " + numero2 + " es igual a: " + multiplicacion);
 		
 		double division = numero1 / numero2;
-		System.out.println("La divisi�n de " + numero1 + " con " + numero2 + " es igual a: " + division);
+		System.out.println("La división de " + numero1 + " con " + numero2 + " es igual a: " + division);
 		
 		int modulo = numero1%numero2;
-		System.out.println("El m�dulo de " + numero1 + " con " + numero2 + " es igual a: " + modulo);
+		System.out.println("El módulo de " + numero1 + " con " + numero2 + " es igual a: " + modulo);
 
 	}
 	

@@ -6,7 +6,7 @@ public class AlecturaPorConsola {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Ingrese un n�mero");
+		System.out.println("Ingrese un número");
 		int lectura = Integer.parseInt(sc.nextLine()); //La clase Scanner solo lee String, asi que se debe refundir el dato.
 		
 		System.out.println(lectura); //Se esta imprimiendo en consola el valor almacenado en la variable lectura.

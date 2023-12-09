@@ -7,11 +7,11 @@ public class AcondicionalIF {
 		int numero1 = 10;
 		int numero2 = 15;
 		
-		if (numero1 < numero2) { //En esta instrucci�n se eval�a la condici�n.
-			System.out.println(numero1 + " es menor que " + numero2); //Si la condici�n se cumple se ejecuta este c�digo.
+		if (numero1 < numero2) { //En esta instrucción se evalúa la condición.
+			System.out.println(numero1 + " es menor que " + numero2); //Si la condición se cumple se ejecuta este código.
 		}
 		else {
-			System.out.println(numero1 + " es mayor que " + numero2); //Si la condici�n no se cumple se ejecuta este c�digo.
+			System.out.println(numero1 + " es mayor que " + numero2); //Si la condición no se cumple se ejecuta este código.
 		}
 		
 	}
