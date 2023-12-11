@@ -19,7 +19,7 @@ public class AoperadoresAritmeticos {
 		double division = numero1 / numero2;
 		System.out.println("La división de " + numero1 + " con " + numero2 + " es igual a: " + division);
 		
-		int modulo = numero1%numero2;
+		int modulo = numero1 % numero2;
 		System.out.println("El módulo de " + numero1 + " con " + numero2 + " es igual a: " + modulo);
 
 	}
